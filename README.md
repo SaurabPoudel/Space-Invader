@@ -1,2 +1,2 @@
 # Space-Invader
-This game is made from python
+Play and have fun
